@@ -5,13 +5,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-/**
- * @author : haozhang
- * @date : Created in  2020-09-06
- * @description :中序遍历
- * @modified By：
- * @version: 1.0
- */
 public class InorderTraversal {
 
     public List<Integer> inorderTraversal(TreeNode root) {

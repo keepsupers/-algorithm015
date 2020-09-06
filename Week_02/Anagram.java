@@ -4,16 +4,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author : haozhang
- * @date : Created in  2020-09-01
- * @description :字母异位词; 给定两个字符串 s 和 t ，编写一个函数来判断 t 是否是 s 的字母异位词
- * <p>
- * https://leetcode-cn.com/problems/valid-anagram/description/
- * </p>
- * @modified By：
- * @version: 1.0
- */
 public class Anagram {
 
     public static void main(String[] args) {
